@@ -1,0 +1,24 @@
+html{
+    font-family: 'Cantarell', sans-serif;
+    background-color: bisque;
+}
+h1{
+    font-size:60px;
+    text-align: center;
+}
+h2{
+    font-family: fantasy;
+}
+.title{
+    font-size: 45;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif;
+}
+a{
+    color:darkred;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+div.Block{
+    margin: 10px;
+    padding:20px;
+    text-decoration: overline;
+}
